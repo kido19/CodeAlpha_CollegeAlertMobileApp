@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73952505643",
+    "project_id": "collagealert-4fb5d",
+    "storage_bucket": "collagealert-4fb5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73952505643:android:641bddefd9fc23ea81df6e",
+        "android_client_info": {
+          "package_name": "com.example.collagealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYIU1klIB_dgMmmxNDstPgBLvHaaPeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

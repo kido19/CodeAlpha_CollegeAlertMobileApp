@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Aesthetic Palette -->
+    <color name="primary">#818CF8</color> <!-- Lighter Indigo -->
+    <color name="primary_dark">#6366F1</color>
+    <color name="primary_light">#312E81</color> <!-- Deep Indigo -->
+    <color name="primary_container">#1E1B4B</color>
+    <color name="on_primary_container">#E0E7FF</color>
+
+    <color name="background">#0F172A</color> <!-- Slate 950 -->
+    <color name="surface">#1E293B</color> <!-- Slate 800 -->
+    <color name="surface_variant">#334155</color>
+    <color name="on_surface">#F8FAFC</color>
+    <color name="on_surface_variant">#94A3B8</color>
+
+    <!-- Priority Colors for Dark Mode -->
+    <color name="priority_high">#F87171</color>
+    <color name="priority_high_bg">#450A0A</color>
+    <color name="priority_medium">#FBBF24</color>
+    <color name="priority_medium_bg">#451A03</color>
+    <color name="priority_low">#34D399</color>
+    <color name="priority_low_bg">#064E3B</color>
+    <color name="priority_normal">#818CF8</color>
+    <color name="priority_normal_bg">#1E1B4B</color>
+</resources>
